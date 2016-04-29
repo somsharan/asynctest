@@ -13,6 +13,8 @@
   ],
   "dependencies": {
     "angular": "^1.5.5",
-    "requirejs": "~2.2.0"
+    "requirejs": "~2.2.0",
+    "domReady": "requirejs-domready#^2.0.1",
+    "angular-route": "^1.5.5"
   }
 }

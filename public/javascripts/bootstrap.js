@@ -6,7 +6,7 @@ define([
     'angular',
     'app',
     'routes'
-], function (require, ng) {
+], function (require, ng, app, routes) {
     'use strict';
 
     require(['domReady!'], function (document) {
